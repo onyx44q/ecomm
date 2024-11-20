@@ -47,5 +47,5 @@ Make sure you have the following installed on your machine:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/onyx44q/yourrepository.git
-cd yourrepository
+git clone https://github.com/onyx44q/ecomm.git
+cd ecomm
