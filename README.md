@@ -32,7 +32,7 @@ This is a simple REST API built with Flask that allows you to manage a collectio
 - Python 3.x
 - Flask
 - Requests (for client interaction)
-
+-Use postman software 
 ## Setup Instructions
 
 ### Prerequisites
